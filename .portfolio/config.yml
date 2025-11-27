@@ -1,0 +1,31 @@
+# .portfolio/config.yml
+name: ERP for ADS Department
+slug: erp-ads-dept
+description: >
+  A full-stack web application built with MERN stack for collecting feedback from courses offered by the college.
+  Features student and faculty login systems with course management, feedback collection, and material sharing capabilities.
+tech_stack:
+  - React
+  - Node.js
+  - Express
+  - MongoDB
+  - Mongoose
+  - Material UI
+  - TypeScript
+  - Bootstrap
+  - Chart.js
+  - Multer
+  - PDF.js
+tags:
+  - Full-Stack
+  - Web Application
+  - Education
+  - ERP
+  - MERN
+is_active: true
+readme_path: README.md
+repo_url: https://github.com/Namasivaayam-L/erp_ads_dept
+thumbnail: https://raw.githubusercontent.com/Namasivaayam-L/erp_ads_dept/main/.portfolio/cover.png
+created_at: 2025-11-27
+updated_at: 2025-11-27
+featured: false
